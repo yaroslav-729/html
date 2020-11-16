@@ -1,0 +1,41 @@
+.contacts {
+    background-color: #fafafa;
+    }
+    .text {
+    font-weight: 300;
+    color: #333;
+    word-break: break-word;
+    font-family: Montserrat, sans-serif,sans-serif;
+    line-height: 1.4;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 10px -3px #ccc,0 0 10px -3px #e2e2e2,1px 1px 0 0 #e2e2e2,-1px -1px 0 0 #e2e2e2,1px -1px 0 0 #e2e2e2,-1px 1px 0 0 #e2e2e2;
+    overflow: auto;
+    height: 200px;
+    width: 400px;
+    position: absolute;
+    top: 55%;
+    left: 70%;
+    margin-left: -200px;
+    margin-top: -130px;
+    padding: 30px;
+    box-sizing: border-box;
+    }
+    .open{
+    
+    font-weight: 300;
+    color: #333;
+    word-break: break-word;
+    font-family: Montserrat, sans-serif,sans-serif;
+    width: 100%;
+    position: relative;
+    line-height: 1.4;
+    background-position: center center;
+    background-repeat: repeat;
+    transition: .5s all;
+    background-size: cover;
+    opacity: 1;
+    padding: 0;
+    min-width: 768px;
+    border-bottom: 0;}
+    
+    
